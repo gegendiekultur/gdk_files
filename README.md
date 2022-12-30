@@ -30,5 +30,7 @@ solikurd.jpg            |  Ausgelegt für 14,8x5,2cm
 zio_afa.jpg             |  Ausgelegt für runde Sticker mit 10cm Durchmesser
 
 ## Abschließend
-Macht was draus, der Kampf gegen Antisemitismus - auch und besonders in der Linken - bleibt richtig und wichtig. Gerade weil antisemitische Kräfte gerade im Aufwind sind, muss völlig eindeutig sein oder werden, dass Jüdinnen*Juden in der Linken einen verlässlichen Verbündeten haben, für den auch das Existenz- und Verteidigungsrecht Israels nicht zur Diskussion steht.
+Macht was draus, der Kampf gegen Antisemitismus - auch und besonders in der Linken - bleibt richtig und wichtig. Gerade weil antisemitische Kräfte gerade im Aufwind sind, muss völlig eindeutig sein oder werden, dass Jüdinnen\*Juden in der Linken einen verlässlichen Verbündeten haben, für den auch das Existenz- und Verteidigungsrecht Israels nicht zur Diskussion steht.
+
+[Alle Dateien als zip herunterladen](https://github.com/gegendiekultur/gdk_files/archive/refs/heads/main.zip "Alle Dateien als zip herunterladen")
 ### Gegen jeden Antisemitismus - Solidarität mit Israel
